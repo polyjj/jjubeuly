@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "새로운 AI 프로젝트 시작: 이미지 생성 모델 개발",
+    "category": "ai-project",
+    "categoryLabel": "AI 프로젝트",
+    "date": "2026-02-03",
+    "excerpt": "최근 시작한 이미지 생성 AI 모델 개발 프로젝트에 대해 공유합니다. Stable Diffusion 기반으로 커스텀 모델을 만들고 있어요.",
+    "image": "assets/img/blog/blog-1.jpg",
+    "link": "blog-details.html?id=1",
+    "tags": ["AI", "딥러닝", "이미지생성"]
+  },
+  {
+    "id": 2,
+    "title": "유튜브 채널 10만 구독자 달성!",
+    "category": "youtube",
+    "categoryLabel": "유튜브",
+    "date": "2026-02-02",
+    "excerpt": "드디어 10만 구독자를 달성했습니다! 앞으로 더 좋은 콘텐츠로 찾아뵐게요.",
+    "image": "assets/img/blog/blog-2.jpg",
+    "link": "blog-details.html?id=2",
+    "tags": ["유튜브", "성장", "감사"]
+  },
+  {
+    "id": 3,
+    "title": "웹 개발 프로젝트: React 기반 대시보드 구축",
+    "category": "development",
+    "categoryLabel": "개발",
+    "date": "2026-02-01",
+    "excerpt": "React와 TypeScript를 활용한 실시간 대시보드 프로젝트를 완료했습니다. 성능 최적화에 많은 시간을 투자했어요.",
+    "image": "assets/img/blog/blog-3.jpg",
+    "link": "blog-details.html?id=3",
+    "tags": ["React", "TypeScript", "프론트엔드"]
+  },
+  {
+    "id": 4,
+    "title": "UI/UX 디자인: 모바일 앱 리디자인 프로젝트",
+    "category": "design",
+    "categoryLabel": "디자인",
+    "date": "2026-01-31",
+    "excerpt": "사용자 경험을 개선하기 위한 모바일 앱 리디자인 작업을 진행 중입니다. 피그마로 프로토타입을 만들고 있어요.",
+    "image": "assets/img/blog/blog-4.jpg",
+    "link": "blog-details.html?id=4",
+    "tags": ["UI/UX", "모바일", "디자인"]
+  },
+  {
+    "id": 5,
+    "title": "프로젝트 기획: 새로운 SaaS 서비스 아이디어",
+    "category": "planning",
+    "categoryLabel": "기획",
+    "date": "2026-01-30",
+    "excerpt": "스타트업을 위한 새로운 SaaS 서비스 아이디어를 기획하고 있습니다. MVP 개발을 시작했어요.",
+    "image": "assets/img/blog/blog-1.jpg",
+    "link": "blog-details.html?id=5",
+    "tags": ["기획", "SaaS", "스타트업"]
+  },
+  {
+    "id": 6,
+    "title": "첫 번째 책 출간 준비 중",
+    "category": "publishing",
+    "categoryLabel": "출판",
+    "date": "2026-01-29",
+    "excerpt": "개발자들을 위한 실용적인 가이드북을 집필하고 있습니다. 곧 출간 예정이에요!",
+    "image": "assets/img/blog/blog-2.jpg",
+    "link": "blog-details.html?id=6",
+    "tags": ["출판", "집필", "개발자"]
+  },
+  {
+    "id": 7,
+    "title": "AI 챗봇 서비스 오픈",
+    "category": "ai-project",
+    "categoryLabel": "AI 프로젝트",
+    "date": "2026-01-28",
+    "excerpt": "GPT API를 활용한 고객 서비스 챗봇을 개발하고 오픈했습니다. 자연어 처리 성능이 뛰어나요.",
+    "image": "assets/img/blog/blog-3.jpg",
+    "link": "blog-details.html?id=7",
+    "tags": ["AI", "챗봇", "NLP"]
+  },
+  {
+    "id": 8,
+    "title": "유튜브: React 강의 시리즈 시작",
+    "category": "youtube",
+    "categoryLabel": "유튜브",
+    "date": "2026-01-27",
+    "excerpt": "초보자를 위한 React 강의 시리즈를 시작했습니다. 실전 프로젝트 중심으로 진행할 예정이에요.",
+    "image": "assets/img/blog/blog-4.jpg",
+    "link": "blog-details.html?id=8",
+    "tags": ["유튜브", "React", "강의"]
+  },
+  {
+    "id": 9,
+    "title": "새로운 카페 발견: 개발자의 서재 같은 공간",
+    "category": "daily-life",
+    "categoryLabel": "일상",
+    "date": "2026-01-26",
+    "excerpt": "한적한 카페에서 책을 읽으며 아이디어를 정리하는 시간. 이런 공간에서 영감을 받는 일이 많아요.",
+    "image": "assets/img/blog/blog-1.jpg",
+    "link": "blog-details.html?id=9",
+    "tags": ["일상", "카페", "독서"]
+  },
+  {
+    "id": 10,
+    "title": "주말 산책하며 생각 정리하기",
+    "category": "daily-life",
+    "categoryLabel": "일상",
+    "date": "2026-01-25",
+    "excerpt": "바쁜 일상 속에서도 산책은 필수예요. 걸으면서 프로젝트 아이디어를 구상하고 문제를 해결하는 시간이에요.",
+    "image": "assets/img/blog/blog-2.jpg",
+    "link": "blog-details.html?id=10",
+    "tags": ["일상", "산책", "생각정리"]
+  },
+  {
+    "id": 11,
+    "title": "사진 촬영 취미: 일상의 순간들을 기록하다",
+    "category": "hobby",
+    "categoryLabel": "취미",
+    "date": "2026-01-24",
+    "excerpt": "사진 촬영은 제가 가장 좋아하는 취미 중 하나예요. 일상의 작은 순간들을 기록하는 것이 즐거워요.",
+    "image": "assets/img/blog/blog-3.jpg",
+    "link": "blog-details.html?id=11",
+    "tags": ["취미", "사진", "기록"]
+  },
+  {
+    "id": 12,
+    "title": "요리 실험: 새로운 레시피 도전하기",
+    "category": "hobby",
+    "categoryLabel": "취미",
+    "date": "2026-01-23",
+    "excerpt": "주말에는 새로운 요리 레시피를 실험해봐요. 개발할 때와 비슷하게 재료를 조합하고 결과를 확인하는 과정이 재미있어요.",
+    "image": "assets/img/blog/blog-4.jpg",
+    "link": "blog-details.html?id=12",
+    "tags": ["취미", "요리", "실험"]
+  }
+]
